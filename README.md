@@ -4,6 +4,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/felpshn/happy-omnistack">
+    <img src="https://img.shields.io/badge/version-1.0-lightgrey">
+  </a>
+  <a href="https://github.com/felpshn/happy-omnistack/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-orange">
+  </a>
+</p>
+
 ## :scroll: About
 
 <h3>Faça uma criança feliz!</h3>
@@ -16,7 +25,7 @@ Projeto de desenvolvimento da interface web e mobile de uma plataforma que visa 
 - **React Native**
 - **Expo**
 - **Node JS**
-  * Express, TypeORM, Multer, Yup, CORS
+  * Express, Axios, TypeORM, Multer, Yup, CORS
 - **SQLite**
 
 ## :tv: Preview
