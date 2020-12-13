@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/felpshn/happy-omnistack">
-    <img width="416" height="204" src="https://github.com/felpshn/happy-omnistack/blob/master/.github/happy-logo.svg">
+    <img src="https://github.com/felpshn/happy-omnistack/blob/master/.github/banner-project.png">
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Projeto de desenvolvimento da interface web e mobile de uma plataforma que visa 
 ## :tv: Preview
 <p align="center">
   <a href="https://github.com/felpshn/happy-omnistack">
-    <img width="806" height="501" src="https://github.com/felpshn/happy-omnistack/blob/master/.github/prev-project.png">
+    <img src="https://github.com/felpshn/happy-omnistack/blob/master/.github/prev-project.png">
   </a>
 </p>
 
@@ -72,5 +72,5 @@ npm run dev
 ## :boom: OmniStack
 
 <p align="center">
-  <img width="750" height="525" src="https://github.com/felpshn/happy-omnistack/blob/master/.github/nlw-omnistack-banner.png">
+  <img src="https://github.com/felpshn/happy-omnistack/blob/master/.github/nlw-omnistack-banner.png">
 </p>
